@@ -6,7 +6,9 @@ namespace Learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //2 Задание
+            Matrix instance = new Matrix(5);
+            instance.Show();
         }
     }
 }

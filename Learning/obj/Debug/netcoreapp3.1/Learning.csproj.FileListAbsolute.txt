@@ -1,0 +1,13 @@
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\fnafe\Documents\Домашнее задани\РКИС\Programm\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache
